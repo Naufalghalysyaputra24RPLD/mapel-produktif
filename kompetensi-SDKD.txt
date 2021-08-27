@@ -1,6 +1,8 @@
 Kompetensi SDKD
 
 -Komunikasi daring singkron
--komunikasi daring asringkon
+*Line
+-Github
+*Email
 -Github
 -Git
