@@ -4,5 +4,7 @@ Kompetensi SDKD
 *Line
 -Github
 *Email
-*Github
-*GIT
++Github
+-membuat akun 
+-membuat repository
++Git 
