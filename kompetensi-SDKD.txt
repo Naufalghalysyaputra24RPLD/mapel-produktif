@@ -4,5 +4,5 @@ Kompetensi SDKD
 *Line
 -Github
 *Email
--Github
--Git
+*Github
+*GIT
